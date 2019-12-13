@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: N1 Openwrt 在线编译多插件
+name: 自用测试固件
 
 on:
   schedule:
